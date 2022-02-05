@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\safyo\Desktop\Projet_PHP_Laravel\Projet_TeamGift\TeamGift\resources\views/contribution.blade.php ENDPATH**/ ?>
